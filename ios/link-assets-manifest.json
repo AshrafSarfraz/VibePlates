@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Src/Assets/Fonts/sf-pro-rounded-black.otf",
+      "sha1": "3a01e65c5f3afee3616df1f29ecd95615e400c71"
+    },
+    {
+      "path": "Src/Assets/Fonts/sf-pro-rounded-bold.otf",
+      "sha1": "1a2fe2e40928ae7739e814f6fc240db77739edec"
+    },
+    {
+      "path": "Src/Assets/Fonts/sf-pro-rounded-medium.otf",
+      "sha1": "fb6ec6eeb16962903bcc1e525bb9b55e9b5488a8"
+    },
+    {
+      "path": "Src/Assets/Fonts/sf-pro-rounded-regular.otf",
+      "sha1": "6e310ffb46a1905886cd4c3566dada6271da5275"
+    },
+    {
+      "path": "Src/Assets/Fonts/sf-pro-rounded-semibold.otf",
+      "sha1": "96e13d25964c3deb1862b436b6c17988fc116bb5"
+    }
+  ]
+}
